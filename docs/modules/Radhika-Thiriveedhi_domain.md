@@ -28,3 +28,7 @@
 - Implementation: feat(mastery): build topic mastery test suite with percentage scoring
 - Specification: feat(mastery): add unlock matrix requirement checks for competitive arena
 - Status: Verified & Test Cases Passed
+
+### Milestone 01: feature/practice-sandbox-step-01
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: implement Practice Lab workbench with test case validation
