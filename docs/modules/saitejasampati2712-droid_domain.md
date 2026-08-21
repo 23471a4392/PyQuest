@@ -28,3 +28,7 @@
 - Implementation: feat(ranks): build global gladiator leaderboards and weekly tournament board
 - Specification: feat(ranks): add achievement unlock system and badge showcase matrix
 - Status: Verified & Test Cases Passed
+
+### Milestone 01: feature/colosseum-arena-step-01
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: build Colosseum Arena hub with multiplayer lobbies and tier ladders
