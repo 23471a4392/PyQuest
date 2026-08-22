@@ -37,3 +37,4 @@
 ### Milestone 02: feature/practice-sandbox-step-02
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: add starter templates, problem descriptions, and I/O specifications
+- Status: Unit verified, test assertions passing cleanly
