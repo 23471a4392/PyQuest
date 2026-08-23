@@ -8,3 +8,8 @@
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: add world badges, descriptions, and prerequisite unlock rules
 - Status: Unit verified, test assertions passing cleanly
+
+### Milestone 03: feature/curriculum-engine-step-03
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: build interactive guided lesson runner with step navigation
+- Status: Unit verified, test assertions passing cleanly
