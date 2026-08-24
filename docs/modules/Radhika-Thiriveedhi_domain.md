@@ -43,3 +43,7 @@
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: curate algorithmic problem banks for sorting and binary search
 - Status: Unit verified, test assertions passing cleanly
+
+### Milestone 04: feature/practice-sandbox-step-04
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: add data structures domain for stacks, queues, and linked lists
