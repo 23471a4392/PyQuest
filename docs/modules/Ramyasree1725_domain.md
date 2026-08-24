@@ -13,3 +13,7 @@
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: build interactive guided lesson runner with step navigation
 - Status: Unit verified, test assertions passing cleanly
+
+### Milestone 04: feature/curriculum-engine-step-04
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: integrate live starter code editor and expected console outputs
