@@ -43,3 +43,7 @@
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: implement Speed Run coding sprint with high-precision countdown
 - Status: Unit verified, test assertions passing cleanly
+
+### Milestone 04: feature/colosseum-arena-step-04
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: add combo score multipliers and personal best persistence
