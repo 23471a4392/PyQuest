@@ -47,3 +47,7 @@
 ### Milestone 04: feature/colosseum-arena-step-04
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: add combo score multipliers and personal best persistence
+
+### Milestone 05: feature/colosseum-arena-step-05
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: create turn-based Pyrax dragon boss battle with syntax damage
