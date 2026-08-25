@@ -17,3 +17,7 @@
 ### Milestone 04: feature/curriculum-engine-step-04
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: integrate live starter code editor and expected console outputs
+
+### Milestone 05: feature/curriculum-engine-step-05
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: add formatted concept markdown explanations and syntax examples
