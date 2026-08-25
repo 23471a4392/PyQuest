@@ -47,3 +47,7 @@
 ### Milestone 04: feature/practice-sandbox-step-04
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: add data structures domain for stacks, queues, and linked lists
+
+### Milestone 05: feature/practice-sandbox-step-05
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: add automated test case assertions with execution timers
