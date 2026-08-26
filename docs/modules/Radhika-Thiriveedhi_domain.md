@@ -51,3 +51,7 @@
 ### Milestone 05: feature/practice-sandbox-step-05
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: add automated test case assertions with execution timers
+
+### Milestone 06: feature/practice-sandbox-step-06
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: implement hidden test cases validation and pass/fail metrics
