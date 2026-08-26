@@ -51,3 +51,7 @@
 ### Milestone 05: feature/colosseum-arena-step-05
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: create turn-based Pyrax dragon boss battle with syntax damage
+
+### Milestone 06: feature/colosseum-arena-step-06
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: add boss rage phases, shield mechanics, and victory celebration
