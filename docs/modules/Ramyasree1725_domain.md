@@ -21,3 +21,7 @@
 ### Milestone 05: feature/curriculum-engine-step-05
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: add formatted concept markdown explanations and syntax examples
+
+### Milestone 06: feature/curriculum-engine-step-06
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: implement interactive code execution simulator for Python 3.12
