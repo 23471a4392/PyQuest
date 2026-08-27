@@ -25,3 +25,7 @@
 ### Milestone 06: feature/curriculum-engine-step-06
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: implement interactive code execution simulator for Python 3.12
+
+### Milestone 07: feature/curriculum-engine-step-07
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: build interactive knowledge check quiz with instant explanations
