@@ -55,3 +55,7 @@
 ### Milestone 06: feature/practice-sandbox-step-06
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: implement hidden test cases validation and pass/fail metrics
+
+### Milestone 07: feature/practice-sandbox-step-07
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: create difficulty filters for Easy, Medium, and Hard drills
