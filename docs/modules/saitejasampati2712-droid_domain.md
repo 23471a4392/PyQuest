@@ -55,3 +55,7 @@
 ### Milestone 06: feature/colosseum-arena-step-06
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: add boss rage phases, shield mechanics, and victory celebration
+
+### Milestone 07: feature/colosseum-arena-step-07
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: implement Survival Gauntlet with 3-lives elimination system
