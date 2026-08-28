@@ -29,3 +29,7 @@
 ### Milestone 07: feature/curriculum-engine-step-07
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: build interactive knowledge check quiz with instant explanations
+
+### Milestone 08: feature/curriculum-engine-step-08
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: add retry mechanism and reward multiplier for quiz mastery
