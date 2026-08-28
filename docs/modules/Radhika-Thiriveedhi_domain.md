@@ -59,3 +59,7 @@
 ### Milestone 07: feature/practice-sandbox-step-07
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: create difficulty filters for Easy, Medium, and Hard drills
+
+### Milestone 08: feature/practice-sandbox-step-08
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: add search query filter and topic tags classification
