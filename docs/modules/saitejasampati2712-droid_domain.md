@@ -59,3 +59,7 @@
 ### Milestone 07: feature/colosseum-arena-step-07
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: implement Survival Gauntlet with 3-lives elimination system
+
+### Milestone 08: feature/colosseum-arena-step-08
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: add escalating test case difficulty and survival wave tracker
