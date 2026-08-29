@@ -63,3 +63,7 @@
 ### Milestone 08: feature/practice-sandbox-step-08
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: add search query filter and topic tags classification
+
+### Milestone 09: feature/practice-sandbox-step-09
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: build topic mastery test suite with percentage scoring
