@@ -33,3 +33,7 @@
 ### Milestone 08: feature/curriculum-engine-step-08
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: add retry mechanism and reward multiplier for quiz mastery
+
+### Milestone 09: feature/curriculum-engine-step-09
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: add auto-advancing Next Topic navigation after reward claims
