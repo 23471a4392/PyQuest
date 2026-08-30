@@ -37,3 +37,7 @@
 ### Milestone 09: feature/curriculum-engine-step-09
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: add auto-advancing Next Topic navigation after reward claims
+
+### Milestone 10: feature/curriculum-engine-step-10
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: integrate curriculum helpers for uncompleted lesson resolution
