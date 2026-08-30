@@ -63,3 +63,7 @@
 ### Milestone 08: feature/colosseum-arena-step-08
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: add escalating test case difficulty and survival wave tracker
+
+### Milestone 09: feature/colosseum-arena-step-09
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: build global gladiator leaderboards and weekly tournament board
