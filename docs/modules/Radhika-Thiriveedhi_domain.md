@@ -67,3 +67,7 @@
 ### Milestone 09: feature/practice-sandbox-step-09
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: build topic mastery test suite with percentage scoring
+
+### Milestone 10: feature/practice-sandbox-step-10
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: add unlock matrix requirement checks for competitive arena
