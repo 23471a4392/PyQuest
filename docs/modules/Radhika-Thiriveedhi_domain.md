@@ -71,3 +71,7 @@
 ### Milestone 10: feature/practice-sandbox-step-10
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: add unlock matrix requirement checks for competitive arena
+
+### Milestone 11: feature/practice-sandbox-step-11
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: curate two-pointer and sliding window algorithmic challenges
