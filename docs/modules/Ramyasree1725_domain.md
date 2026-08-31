@@ -41,3 +41,7 @@
 ### Milestone 10: feature/curriculum-engine-step-10
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: integrate curriculum helpers for uncompleted lesson resolution
+
+### Milestone 11: feature/curriculum-engine-step-11
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: add World 1 Python Basics lesson steps and code challenges
