@@ -67,3 +67,7 @@
 ### Milestone 09: feature/colosseum-arena-step-09
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: build global gladiator leaderboards and weekly tournament board
+
+### Milestone 10: feature/colosseum-arena-step-10
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: add achievement unlock system and badge showcase matrix
