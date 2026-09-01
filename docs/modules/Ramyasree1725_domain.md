@@ -45,3 +45,7 @@
 ### Milestone 11: feature/curriculum-engine-step-11
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: add World 1 Python Basics lesson steps and code challenges
+
+### Milestone 12: feature/curriculum-engine-step-12
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: implement World 2 Decision Making if-elif-else branching logic
