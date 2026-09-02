@@ -75,3 +75,7 @@
 ### Milestone 11: feature/colosseum-arena-step-11
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: implement 1v1 simulated code battle match engine with AI bots
+
+### Milestone 12: feature/colosseum-arena-step-12
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: create arena tier classification Bronze, Silver, Gold, Master
