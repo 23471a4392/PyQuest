@@ -75,3 +75,7 @@
 ### Milestone 11: feature/practice-sandbox-step-11
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: curate two-pointer and sliding window algorithmic challenges
+
+### Milestone 12: feature/practice-sandbox-step-12
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: implement recursion and divide-and-conquer problem bank
