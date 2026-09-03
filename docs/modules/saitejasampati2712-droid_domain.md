@@ -79,3 +79,7 @@
 ### Milestone 12: feature/colosseum-arena-step-12
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: create arena tier classification Bronze, Silver, Gold, Master
+
+### Milestone 13: feature/colosseum-arena-step-13
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: add animated boss attack visual effects and sound synchronization
