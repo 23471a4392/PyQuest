@@ -79,3 +79,7 @@
 ### Milestone 12: feature/practice-sandbox-step-12
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: implement recursion and divide-and-conquer problem bank
+
+### Milestone 13: feature/practice-sandbox-step-13
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: add dynamic programming tabulation and memoization drills
