@@ -57,3 +57,7 @@
 ### Milestone 14: feature/curriculum-engine-step-14
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: create World 4 Functions, Return Values, and Scope lessons
+
+### Milestone 15: feature/curriculum-engine-step-15
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: add World 5 Data Structures dictionary and hash map tutorials
