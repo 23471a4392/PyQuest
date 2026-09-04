@@ -83,3 +83,7 @@
 ### Milestone 13: feature/colosseum-arena-step-13
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: add animated boss attack visual effects and sound synchronization
+
+### Milestone 14: feature/colosseum-arena-step-14
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: build speed run streak multiplier with combo scoring tiers
