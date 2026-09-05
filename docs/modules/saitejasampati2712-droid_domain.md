@@ -87,3 +87,7 @@
 ### Milestone 14: feature/colosseum-arena-step-14
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: build speed run streak multiplier with combo scoring tiers
+
+### Milestone 15: feature/colosseum-arena-step-15
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: implement survival mode sudden death round with timer countdown
