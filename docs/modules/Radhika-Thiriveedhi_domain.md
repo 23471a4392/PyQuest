@@ -87,3 +87,7 @@
 ### Milestone 14: feature/practice-sandbox-step-14
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: curate binary tree traversal and binary search tree problems
+
+### Milestone 15: feature/practice-sandbox-step-15
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: implement graph traversal BFS and DFS challenge test sets
