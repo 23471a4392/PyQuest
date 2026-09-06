@@ -61,3 +61,7 @@
 ### Milestone 15: feature/curriculum-engine-step-15
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: add World 5 Data Structures dictionary and hash map tutorials
+
+### Milestone 16: feature/curriculum-engine-step-16
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: implement World 6 OOP Classes, Objects, and self reference
