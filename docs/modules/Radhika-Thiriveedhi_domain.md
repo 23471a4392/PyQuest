@@ -91,3 +91,7 @@
 ### Milestone 15: feature/practice-sandbox-step-15
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: implement graph traversal BFS and DFS challenge test sets
+
+### Milestone 16: feature/practice-sandbox-step-16
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: add string pattern matching KMP and Rabin-Karp algorithms
