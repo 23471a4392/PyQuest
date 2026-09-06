@@ -91,3 +91,7 @@
 ### Milestone 15: feature/colosseum-arena-step-15
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: implement survival mode sudden death round with timer countdown
+
+### Milestone 16: feature/colosseum-arena-step-16
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: create weekly tournament challenge bracket and prize pools
