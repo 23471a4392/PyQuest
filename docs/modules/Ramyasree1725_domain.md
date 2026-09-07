@@ -65,3 +65,7 @@
 ### Milestone 16: feature/curriculum-engine-step-16
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: implement World 6 OOP Classes, Objects, and self reference
+
+### Milestone 17: feature/curriculum-engine-step-17
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: create lesson breadcrumbs and world progress indicators
