@@ -95,3 +95,7 @@
 ### Milestone 16: feature/colosseum-arena-step-16
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: create weekly tournament challenge bracket and prize pools
+
+### Milestone 17: feature/colosseum-arena-step-17
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: add leaderboards category filters by XP, Speed, and Survival
