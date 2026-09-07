@@ -95,3 +95,7 @@
 ### Milestone 16: feature/practice-sandbox-step-16
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: add string pattern matching KMP and Rabin-Karp algorithms
+
+### Milestone 17: feature/practice-sandbox-step-17
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: build math and number theory prime factorization challenges
