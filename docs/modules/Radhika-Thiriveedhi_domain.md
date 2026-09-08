@@ -99,3 +99,7 @@
 ### Milestone 17: feature/practice-sandbox-step-17
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: build math and number theory prime factorization challenges
+
+### Milestone 18: feature/practice-sandbox-step-18
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: create code editor line numbering, indentation, and reset tools
