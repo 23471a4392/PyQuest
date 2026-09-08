@@ -69,3 +69,7 @@
 ### Milestone 17: feature/curriculum-engine-step-17
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: create lesson breadcrumbs and world progress indicators
+
+### Milestone 18: feature/curriculum-engine-step-18
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: add syntax highlighting tokens for Python keywords
