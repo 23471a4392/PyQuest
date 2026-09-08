@@ -99,3 +99,7 @@
 ### Milestone 17: feature/colosseum-arena-step-17
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: add leaderboards category filters by XP, Speed, and Survival
+
+### Milestone 18: feature/colosseum-arena-step-18
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: build player rank card with percentile ranking against rivals
