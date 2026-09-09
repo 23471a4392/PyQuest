@@ -103,3 +103,7 @@
 ### Milestone 18: feature/practice-sandbox-step-18
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: create code editor line numbering, indentation, and reset tools
+
+### Milestone 19: feature/practice-sandbox-step-19
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: implement terminal console output panel with syntax themes
