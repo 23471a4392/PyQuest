@@ -103,3 +103,7 @@
 ### Milestone 18: feature/colosseum-arena-step-18
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: build player rank card with percentile ranking against rivals
+
+### Milestone 19: feature/colosseum-arena-step-19
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: implement victory podium celebration screen with particle FX
