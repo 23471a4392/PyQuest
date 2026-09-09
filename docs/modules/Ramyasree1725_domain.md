@@ -73,3 +73,7 @@
 ### Milestone 18: feature/curriculum-engine-step-18
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: add syntax highlighting tokens for Python keywords
+
+### Milestone 19: feature/curriculum-engine-step-19
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: build concept explanation cards with visual callout boxes
