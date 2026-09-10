@@ -107,3 +107,7 @@
 ### Milestone 19: feature/colosseum-arena-step-19
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: implement victory podium celebration screen with particle FX
+
+### Milestone 20: feature/colosseum-arena-step-20
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: add boss defeat achievement badge and high-tier coin rewards
