@@ -107,3 +107,7 @@
 ### Milestone 19: feature/practice-sandbox-step-19
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: implement terminal console output panel with syntax themes
+
+### Milestone 20: feature/practice-sandbox-step-20
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: add test case execution runtime benchmark telemetry
