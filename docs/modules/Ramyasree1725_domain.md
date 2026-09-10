@@ -77,3 +77,7 @@
 ### Milestone 19: feature/curriculum-engine-step-19
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: build concept explanation cards with visual callout boxes
+
+### Milestone 20: feature/curriculum-engine-step-20
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: integrate confetti celebration burst on lesson milestone completion
