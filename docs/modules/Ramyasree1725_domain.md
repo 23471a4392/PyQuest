@@ -81,3 +81,7 @@
 ### Milestone 20: feature/curriculum-engine-step-20
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: integrate confetti celebration burst on lesson milestone completion
+
+### Milestone 21: feature/curriculum-engine-step-21
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: add quiz option shuffle and randomized answer verification
