@@ -4,3 +4,7 @@
 - Implementation: feat(arena): build Colosseum Arena hub with multiplayer lobbies and tier ladders
 - Specification: feat(arena): add arena unlock conditions and competitive tier badges
 - Status: Verified & Test Cases Passed
+
+### Feature Increment: feature/speed-run-timer-engine
+- Domain Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Implementation: feat(speed-run): implement Speed Run coding sprint with high-precision countdown
