@@ -111,3 +111,7 @@
 ### Milestone 20: feature/practice-sandbox-step-20
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: add test case execution runtime benchmark telemetry
+
+### Milestone 21: feature/practice-sandbox-step-21
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: create problem hint system with progressive clue revelations
