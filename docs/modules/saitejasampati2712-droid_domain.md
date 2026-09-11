@@ -111,3 +111,7 @@
 ### Milestone 20: feature/colosseum-arena-step-20
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: add boss defeat achievement badge and high-tier coin rewards
+
+### Milestone 21: feature/colosseum-arena-step-21
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: create arena quick-play matchmaking lobby simulation
