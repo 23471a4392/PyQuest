@@ -14,3 +14,5 @@
 ### Feature Increment: feature/boss-battle-pyrax-combat
 - Domain Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Implementation: feat(boss): create turn-based Pyrax dragon boss battle with syntax damage
+- Specification: feat(boss): add boss rage phases, shield mechanics, and victory celebration
+- Status: Verified & Test Cases Passed
