@@ -115,3 +115,7 @@
 ### Milestone 21: feature/colosseum-arena-step-21
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: create arena quick-play matchmaking lobby simulation
+
+### Milestone 22: feature/colosseum-arena-step-22
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: implement combat turn log with damage calculations and criticals
