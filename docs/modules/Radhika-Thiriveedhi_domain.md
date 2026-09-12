@@ -115,3 +115,7 @@
 ### Milestone 21: feature/practice-sandbox-step-21
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: create problem hint system with progressive clue revelations
+
+### Milestone 22: feature/practice-sandbox-step-22
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: add solution code submission verification and score rewards
