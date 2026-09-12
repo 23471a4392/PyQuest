@@ -85,3 +85,7 @@
 ### Milestone 21: feature/curriculum-engine-step-21
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: add quiz option shuffle and randomized answer verification
+
+### Milestone 22: feature/curriculum-engine-step-22
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: implement estimated completion time calculator per lesson
