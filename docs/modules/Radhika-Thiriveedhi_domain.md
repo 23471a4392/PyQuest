@@ -14,3 +14,5 @@
 ### Feature Increment: feature/test-runner-evaluation
 - Domain Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Implementation: feat(test-runner): add automated test case assertions with execution timers
+- Specification: feat(test-runner): implement hidden test cases validation and pass/fail metrics
+- Status: Verified & Test Cases Passed
