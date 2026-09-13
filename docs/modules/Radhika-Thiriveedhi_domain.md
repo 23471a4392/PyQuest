@@ -119,3 +119,7 @@
 ### Milestone 22: feature/practice-sandbox-step-22
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: add solution code submission verification and score rewards
+
+### Milestone 23: feature/practice-sandbox-step-23
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: build problem status tracking pill badges in practice matrix
