@@ -16,3 +16,9 @@
 - Implementation: feat(boss): create turn-based Pyrax dragon boss battle with syntax damage
 - Specification: feat(boss): add boss rage phases, shield mechanics, and victory celebration
 - Status: Verified & Test Cases Passed
+
+### Feature Increment: feature/survival-gauntlet-lives
+- Domain Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Implementation: feat(survival): implement Survival Gauntlet with 3-lives elimination system
+- Specification: feat(survival): add escalating test case difficulty and survival wave tracker
+- Status: Verified & Test Cases Passed
