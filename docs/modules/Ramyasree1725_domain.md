@@ -93,3 +93,7 @@
 ### Milestone 23: feature/curriculum-engine-step-23
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: build lesson overview cards with completion status pills
+
+### Milestone 24: feature/curriculum-engine-step-24
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: integrate step transition animations with fade effects
