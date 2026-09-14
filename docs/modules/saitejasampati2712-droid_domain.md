@@ -22,3 +22,7 @@
 - Implementation: feat(survival): implement Survival Gauntlet with 3-lives elimination system
 - Specification: feat(survival): add escalating test case difficulty and survival wave tracker
 - Status: Verified & Test Cases Passed
+
+### Feature Increment: feature/leaderboards-rank-matrix
+- Domain Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Implementation: feat(ranks): build global gladiator leaderboards and weekly tournament board
