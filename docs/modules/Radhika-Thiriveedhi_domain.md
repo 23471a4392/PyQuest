@@ -22,3 +22,7 @@
 - Implementation: feat(practice): create difficulty filters for Easy, Medium, and Hard drills
 - Specification: feat(practice): add search query filter and topic tags classification
 - Status: Verified & Test Cases Passed
+
+### Feature Increment: feature/topic-mastery-evaluator
+- Domain Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Implementation: feat(mastery): build topic mastery test suite with percentage scoring
