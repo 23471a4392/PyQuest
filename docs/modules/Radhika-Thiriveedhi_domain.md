@@ -26,3 +26,5 @@
 ### Feature Increment: feature/topic-mastery-evaluator
 - Domain Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Implementation: feat(mastery): build topic mastery test suite with percentage scoring
+- Specification: feat(mastery): add unlock matrix requirement checks for competitive arena
+- Status: Verified & Test Cases Passed
