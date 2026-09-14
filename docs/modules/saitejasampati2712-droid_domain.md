@@ -26,3 +26,5 @@
 ### Feature Increment: feature/leaderboards-rank-matrix
 - Domain Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Implementation: feat(ranks): build global gladiator leaderboards and weekly tournament board
+- Specification: feat(ranks): add achievement unlock system and badge showcase matrix
+- Status: Verified & Test Cases Passed
