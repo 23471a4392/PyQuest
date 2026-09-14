@@ -119,3 +119,7 @@
 ### Milestone 22: feature/colosseum-arena-step-22
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: implement combat turn log with damage calculations and criticals
+
+### Milestone 23: feature/colosseum-arena-step-23
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: build survival lifeline shields and extra chance power-ups
