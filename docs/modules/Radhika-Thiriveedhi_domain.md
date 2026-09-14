@@ -123,3 +123,7 @@
 ### Milestone 23: feature/practice-sandbox-step-23
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: build problem status tracking pill badges in practice matrix
+
+### Milestone 24: feature/practice-sandbox-step-24
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: implement practice difficulty progression and recommendation
