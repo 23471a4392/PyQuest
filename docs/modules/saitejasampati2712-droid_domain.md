@@ -123,3 +123,7 @@
 ### Milestone 23: feature/colosseum-arena-step-23
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: build survival lifeline shields and extra chance power-ups
+
+### Milestone 24: feature/colosseum-arena-step-24
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: add competitive tournament countdown and active status ticker
