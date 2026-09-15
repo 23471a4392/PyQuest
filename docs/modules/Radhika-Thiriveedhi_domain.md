@@ -127,3 +127,7 @@
 ### Milestone 24: feature/practice-sandbox-step-24
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: implement practice difficulty progression and recommendation
+
+### Milestone 25: feature/practice-sandbox-step-25
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: add test submission history log with timestamped results
