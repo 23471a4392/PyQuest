@@ -13,3 +13,8 @@
 - Author: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Domain: Practice Sandbox, Test Runner & Algorithmic Problem Bank
 - Status: Unit Verified & Code Review Approved
+
+### PR #015: audio-effects
+- Author: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Domain: Practice Sandbox, Test Runner & Algorithmic Problem Bank
+- Status: Unit Verified & Code Review Approved
