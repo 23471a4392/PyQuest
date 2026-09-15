@@ -97,3 +97,7 @@
 ### Milestone 24: feature/curriculum-engine-step-24
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: integrate step transition animations with fade effects
+
+### Milestone 25: feature/curriculum-engine-step-25
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: add lesson prerequisite lock indicators and level requirements
