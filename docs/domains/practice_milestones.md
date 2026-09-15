@@ -178,3 +178,8 @@
 - Author: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Domain: Practice Sandbox, Test Runner & Algorithmic Problem Bank
 - Status: Unit Verified & Code Review Approved
+
+### PR #152: system-readiness
+- Author: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Domain: Practice Sandbox, Test Runner & Algorithmic Problem Bank
+- Status: Unit Verified & Code Review Approved
