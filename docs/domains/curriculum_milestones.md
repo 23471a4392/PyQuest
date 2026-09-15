@@ -73,3 +73,8 @@
 - Author: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Domain: Guided Learning Worlds & Interactive Curriculum Engine
 - Status: Unit Verified & Code Review Approved
+
+### PR #067: event-bus
+- Author: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Domain: Guided Learning Worlds & Interactive Curriculum Engine
+- Status: Unit Verified & Code Review Approved
