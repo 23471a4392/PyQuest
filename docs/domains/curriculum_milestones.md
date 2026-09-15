@@ -123,3 +123,8 @@
 - Author: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Domain: Guided Learning Worlds & Interactive Curriculum Engine
 - Status: Unit Verified & Code Review Approved
+
+### PR #107: crypto-hasher
+- Author: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Domain: Guided Learning Worlds & Interactive Curriculum Engine
+- Status: Unit Verified & Code Review Approved
