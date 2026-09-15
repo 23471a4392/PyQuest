@@ -93,3 +93,8 @@
 - Author: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Domain: Practice Sandbox, Test Runner & Algorithmic Problem Bank
 - Status: Unit Verified & Code Review Approved
+
+### PR #084: security-sanitizer
+- Author: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Domain: Practice Sandbox, Test Runner & Algorithmic Problem Bank
+- Status: Unit Verified & Code Review Approved
