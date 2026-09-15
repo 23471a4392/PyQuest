@@ -138,3 +138,8 @@
 - Author: Nagaphanisree Meesala (23471a4392@gmail.com)
 - Domain: Core System Architecture & Player State Management
 - Status: Unit Verified & Code Review Approved
+
+### PR #122: error-boundary
+- Author: Nagaphanisree Meesala (23471a4392@gmail.com)
+- Domain: Core System Architecture & Player State Management
+- Status: Unit Verified & Code Review Approved
