@@ -48,3 +48,8 @@
 - Author: Sai Teja Sampati (saitejasampati@gmail.com)
 - Domain: Colosseum Arena, Competitive Gauntlet & Gamification Battles
 - Status: Unit Verified & Code Review Approved
+
+### PR #045: drawer-navigation
+- Author: Sai Teja Sampati (saitejasampati@gmail.com)
+- Domain: Colosseum Arena, Competitive Gauntlet & Gamification Battles
+- Status: Unit Verified & Code Review Approved
