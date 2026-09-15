@@ -163,3 +163,8 @@
 - Author: Sai Teja Sampati (saitejasampati@gmail.com)
 - Domain: Colosseum Arena, Competitive Gauntlet & Gamification Battles
 - Status: Unit Verified & Code Review Approved
+
+### PR #145: view-transitions
+- Author: Sai Teja Sampati (saitejasampati@gmail.com)
+- Domain: Colosseum Arena, Competitive Gauntlet & Gamification Battles
+- Status: Unit Verified & Code Review Approved
