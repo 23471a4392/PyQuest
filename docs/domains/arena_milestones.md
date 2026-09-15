@@ -148,3 +148,8 @@
 - Author: Sai Teja Sampati (saitejasampati@gmail.com)
 - Domain: Colosseum Arena, Competitive Gauntlet & Gamification Battles
 - Status: Unit Verified & Code Review Approved
+
+### PR #133: keyboard-traversal
+- Author: Sai Teja Sampati (saitejasampati@gmail.com)
+- Domain: Colosseum Arena, Competitive Gauntlet & Gamification Battles
+- Status: Unit Verified & Code Review Approved
