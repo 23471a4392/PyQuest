@@ -53,3 +53,8 @@
 - Author: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Domain: Guided Learning Worlds & Interactive Curriculum Engine
 - Status: Unit Verified & Code Review Approved
+
+### PR #047: session-storage
+- Author: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Domain: Guided Learning Worlds & Interactive Curriculum Engine
+- Status: Unit Verified & Code Review Approved
