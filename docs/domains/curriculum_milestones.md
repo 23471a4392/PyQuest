@@ -88,3 +88,8 @@
 - Author: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Domain: Guided Learning Worlds & Interactive Curriculum Engine
 - Status: Unit Verified & Code Review Approved
+
+### PR #079: activity-feed
+- Author: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Domain: Guided Learning Worlds & Interactive Curriculum Engine
+- Status: Unit Verified & Code Review Approved
