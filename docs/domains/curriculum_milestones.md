@@ -68,3 +68,8 @@
 - Author: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Domain: Guided Learning Worlds & Interactive Curriculum Engine
 - Status: Unit Verified & Code Review Approved
+
+### PR #059: shortcuts-manager
+- Author: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Domain: Guided Learning Worlds & Interactive Curriculum Engine
+- Status: Unit Verified & Code Review Approved
