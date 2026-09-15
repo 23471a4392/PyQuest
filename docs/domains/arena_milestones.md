@@ -177,3 +177,7 @@
 ### Final PR: combat-sync-v1
 - Lead: Sai Teja Sampati
 - Status: Production Ready
+
+### Final PR: ladder-rating-v1
+- Lead: Sai Teja Sampati
+- Status: Production Ready
