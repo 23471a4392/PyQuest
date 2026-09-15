@@ -181,3 +181,7 @@
 ### Final PR: ladder-rating-v1
 - Lead: Sai Teja Sampati
 - Status: Production Ready
+
+### Final PR: colosseum-mastery-final
+- Lead: Sai Teja Sampati
+- Status: Production Ready
