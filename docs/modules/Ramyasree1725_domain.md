@@ -101,3 +101,7 @@
 ### Milestone 25: feature/curriculum-engine-step-25
 - Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
 - Feature: add lesson prerequisite lock indicators and level requirements
+
+### Milestone 26: feature/curriculum-engine-step-26
+- Lead: Ramya Sri Guntupalli (guntupalliramyasri@gmail.com)
+- Feature: finalize curriculum worlds engine and guided learning flow
