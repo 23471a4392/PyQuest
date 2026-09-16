@@ -127,3 +127,7 @@
 ### Milestone 24: feature/colosseum-arena-step-24
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: add competitive tournament countdown and active status ticker
+
+### Milestone 25: feature/colosseum-arena-step-25
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: implement global gladiator rank badges and prestige icons
