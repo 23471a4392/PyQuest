@@ -131,3 +131,7 @@
 ### Milestone 25: feature/practice-sandbox-step-25
 - Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
 - Feature: add test submission history log with timestamped results
+
+### Milestone 26: feature/practice-sandbox-step-26
+- Lead: Radhika Thiriveedhi (radhikathiriveedhi@gmail.com)
+- Feature: finalize practice sandbox workbench and algorithmic bank
