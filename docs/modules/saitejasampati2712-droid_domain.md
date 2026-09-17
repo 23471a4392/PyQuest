@@ -131,3 +131,7 @@
 ### Milestone 25: feature/colosseum-arena-step-25
 - Lead: Sai Teja Sampati (saitejasampati@gmail.com)
 - Feature: implement global gladiator rank badges and prestige icons
+
+### Milestone 26: feature/colosseum-arena-step-26
+- Lead: Sai Teja Sampati (saitejasampati@gmail.com)
+- Feature: finalize colosseum arena combat system and gamification matrix
